@@ -1,0 +1,22 @@
+.form {
+  padding: 20px;
+  background-color: #ad9be9;
+  border-radius: 20px;
+  width: 700px;
+  display: flex;
+  flex-direction: column;
+}
+
+.inputs-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  /* justify-content: center; */
+  flex-wrap: wrap;
+}
+
+.btns-wrapper{
+    display: flex;
+    justify-content:end;
+    
+}
